@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hebert</h1>
-<h3 align="center">fullstack developer</h3>
+<h3 align="center">i'm a Backend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://hebert-developer.vercel.app/](https://hebert-developer.vercel.app/)
 
