@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hebert</h1>
-<h3 align="center">I'm Backend Developer</h3>
+<h1>Hi 👋, I'm Hebert</h1>
+<h3>I'm Backend Developer</h3>
 
 - 🌱 I’m currently learning **Nestjs , clean architecture and microservices.**
 
