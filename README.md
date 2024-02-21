@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Hebert</h1>
 <h3>I'm Backend Developer</h3>
 
-- 🌱 I’m currently learning **Nestjs , clean architecture and microservices.**
+- 🌱 I’m currently learning **Nestjs,tests, clean architecture and microservices.**
 
 - 👨‍💻 All of my projects are available at [https://hebert-developer.vercel.app/](https://hebert-developer.vercel.app/)
 
