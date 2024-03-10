@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Hebert</h1>
 <h3>I'm Backend Developer</h3>
 
-- 🌱 I’m currently learning **Nestjs,tests, clean architecture and microservices.**
-
 - 👨‍💻 All of my projects are available at [https://ihebert.vercel.app/](https://ihebert.vercel.app/)
 
 - 📫 How to reach me **hebertsantosdeveloper@gmail.com**
