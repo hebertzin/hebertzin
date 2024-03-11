@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hebert</h1>
 <h3 align="center">I'm a Backend developer, If you have any collaborative projects or ideas, don't hesitate to call me, let's talk.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ihebert.vercel.app/](https://ihebert.vercel.app/)
-
 - 📫 How to reach me **hebertsantosdeveloper@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1li14xepmCE18dzip9Kn49UHDoEEjrohI/view?usp=sharing](https://drive.google.com/file/d/1li14xepmCE18dzip9Kn49UHDoEEjrohI/view?usp=sharing)
