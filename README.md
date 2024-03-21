@@ -32,5 +32,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+## And also about the following Design Patterns:
+
+- Strategy
+- Factory
+- Singleton
+- Data Transfer Objects or DTO
+  
+<h3 align="left">Soft skills</h3>
+
+- **Effective Communication**: Ability to express ideas clearly, both verbally and in writing, and in a way that is understandable to different audiences, including non-technical colleagues.
+- **collaboration**: Work well in a team, sharing knowledge, accepting feedback and contributing to common goals.
+- **Continuous Learning**: Willingness to acquire new knowledge and skills, follow technological trends and seek professional development opportunities.
+- **Critical Thinking**: Ability to evaluate information, identify biases and take an analytical approach to solving problems.
+- **Adaptability**: Ability to adjust to new technologies, work environments and changing project requirements quickly and efficiently.
+  
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertsanto&layout=compact&theme=" alt=hebertsanto />
