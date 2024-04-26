@@ -4,7 +4,7 @@
   If you have a project or something like that, don't hesitate to call me and let's talk
 
 ## More about me
-- I’m currently learning **How to improve my code** and much more
+- I’m currently learning **How to improve my code** and much more such as data structures
 - How to reach me **hebertsantosdeveloper@gmail.com**
 - Know about my experiences **https://drive.google.com/file/d/1li14xepmCE18dzip9Kn49UHDoEEjrohI/view?usp=sharing**
 
