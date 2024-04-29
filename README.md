@@ -1,6 +1,6 @@
 <h1>Hi , There !</h1>
 
-  I am a **Backend developer** but I also have some knowledge with **Frontend Development**,
+  I am a **Fullstack developer**,
   If you have a project or something like that, don't hesitate to call me and let's talk
 
 ## More about me
