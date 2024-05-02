@@ -1,6 +1,6 @@
 <h1>Hi , There !</h1>
 
-  I am a **Fullstack developer**,
+  I am a **Software developer**,
   If you have a project or something like that, don't hesitate to call me and let's talk
 
 ## More about me
