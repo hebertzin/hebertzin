@@ -9,7 +9,7 @@ If you have a project or something like that, don't hesitate to call me and let'
 - How to reach me **hebertsantosdeveloper@gmail.com**
 - Know about my experiences **https://drive.google.com/file/d/1CxnuQQitQNG5rlH78XM9holFF8aLxeEt/view**
 
-## Contact
+## Contact me
 <div> 
   <a href="https://www.linkedin.com/in/hebert-santos-241429243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
