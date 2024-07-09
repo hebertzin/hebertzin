@@ -1,6 +1,7 @@
 <h1>Hi, There!</h1>
 
-I am a **Backend developer**,
+I am a ** Software Developer focus on Backend**,
+
 If you have a project or something like that, don't hesitate to call me and let's talk
 
 ## More about me
