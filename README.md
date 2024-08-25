@@ -1,8 +1,8 @@
 <h1>Hi, There!</h1>
 
-I am a **Software Developer focus on Backend**.
+I am a **Software engineer**.
 
-If you have a project or something like that, don't hesitate to call me and let's talk
+I am a backend developer with experience in building high-quality and scalable systems. I have a strong focus on software architecture, test automation, and I am passionate about learning and applying new technologies to solve complex problems efficiently.
 
 ## More about me
 
@@ -40,14 +40,19 @@ If you have a project or something like that, don't hesitate to call me and let'
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-## And also about the following Design Patterns:
+## Architecture and Design Patterns
 
 - Strategy
 - Factory
 - Singleton
 - Data Transfer Objects or DTO
   
-<h3 align="left">Soft skills</h3>
+## DevOps and CI/CD
+
+- **Docker** : Creation and management of containers for development and production environments.
+- **CI/CD Pipelines** : Automation of builds, tests and deployments to ensure continuous deliveries.
+  
+<h2 align="left">Soft skills</h2>
 <ul>
   <li><b>Effective Communication</b>: Ability to express ideas clearly, both verbally and in writing, and in a way that is understandable to different audiences, including non-technical colleagues.</li>
   <li><b>Collaboration</b>: Work well in a team, sharing knowledge, accepting feedback and contributing to common goals.</li>
@@ -55,9 +60,3 @@ If you have a project or something like that, don't hesitate to call me and let'
   <li><b>Critical Thinking</b>: Ability to evaluate information, identify biases and take an analytical approach to solving problems.</li>
   <li><b>Adaptability</b>: Ability to adjust to new technologies, work environments and changing project requirements quickly and efficiently.</li>
 </ul>
-
-<h3 align="left">Stars</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebertsanto&layout=compact&theme=" alt="hebertsanto" />
-</p>
-
