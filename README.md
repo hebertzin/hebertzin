@@ -1,8 +1,6 @@
 <h1>Hi, There!</h1>
 
-I am a **Software engineer**.
-
-I am a backend developer with experience in building high-quality and scalable systems. I have a strong focus on software architecture, test automation, and I am passionate about learning and applying new technologies to solve complex problems efficiently.
+I am a software engineer with experience in building high-quality and scalable systems. I have a strong focus on software architecture, test automation, and I am passionate about learning and applying new technologies to solve complex problems efficiently.
 
 ## More about me
 
