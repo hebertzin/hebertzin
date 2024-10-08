@@ -1,14 +1,19 @@
-<h1>Hi, There!</h1>
+`console.log("Welcome to my github!😆")`
 
-I am a software engineer with experience in building high-quality and scalable systems. I have a strong focus on software architecture, test automation, and I am passionate about learning and applying new technologies to solve complex problems efficiently.
+## 
 
-## More about me
+🚀 **I'm a Software Engineer**
 
-- Studying **Analysis and Systems Development**
-- How to reach me **hebertsantosdeveloper@gmail.com**
-- Know about my experiences **https://drive.google.com/file/d/1CxnuQQitQNG5rlH78XM9holFF8aLxeEt/view**
+🎓 Undergraduate in Systems Analysis and Development at **Anhembi Morumbi**
 
-## Contact me
+✈️ Living in São Paulo
+
+🌐 **B1 English Level**
+
+📚 Studying Software architecture and good practices
+
+
+<h3 align="left">Contact me</h3>
 <div> 
   <a href="https://www.linkedin.com/in/hebert-santos-241429243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -18,7 +23,7 @@ I am a software engineer with experience in building high-quality and scalable s
   </a>
 </div>
 
-<h3 align="left">Hard skills</h3>
+<h3 align="left">Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/go-original.svg" alt="Go" width="40" height="40"/>
@@ -38,23 +43,50 @@ I am a software engineer with experience in building high-quality and scalable s
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-## Architecture and Design Patterns
+##
 
-- Strategy
-- Factory
-- Singleton
-- Data Transfer Objects or DTO
-  
-## DevOps and CI/CD
+Here you'll find some projects focused in the following technologies:
 
-- **Docker** : Creation and management of containers for development and production environments.
-- **CI/CD Pipelines** : Automation of builds, tests and deployments to ensure continuous deliveries.
-  
-<h2 align="left">Soft skills</h2>
-<ul>
-  <li><b>Effective Communication</b>: Ability to express ideas clearly, both verbally and in writing, and in a way that is understandable to different audiences, including non-technical colleagues.</li>
-  <li><b>Collaboration</b>: Work well in a team, sharing knowledge, accepting feedback and contributing to common goals.</li>
-  <li><b>Continuous Learning</b>: Willingness to acquire new knowledge and skills, follow technological trends and seek professional development opportunities.</li>
-  <li><b>Critical Thinking</b>: Ability to evaluate information, identify biases and take an analytical approach to solving problems.</li>
-  <li><b>Adaptability</b>: Ability to adjust to new technologies, work environments and changing project requirements quickly and efficiently.</li>
-</ul>
+<p style="font-size:2px;">
+-Java
+
+-Spring Boot (Web, Security)
+
+-Relational and Non-Relational Databases (Postgres, MySQL, MongoDB)
+
+-Redis
+
+-Docker
+
+-Kafka
+
+-AWS S3
+
+-NestJS
+
+-TypeScript
+
+-Javascript
+
+-Golang
+
+-ORM (Prisma, TypeORM, Sequelize)
+</p>
+
+##
+
+And also about the following Design Patterns:
+
+-Strategy
+
+-Factory
+
+-Singleton
+
+-Builder
+
+-Data Transfer Objects
+
+#
+
+Enjoy :)
