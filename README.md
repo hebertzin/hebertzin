@@ -2,7 +2,7 @@
 
 ## 
 
-🚀 **I'm a Backend Software devloper**
+🚀 **I'm a Backend Software developer**
 
 🎓 Undergraduate in Systems Analysis and Development at **Anhembi Morumbi**
 
