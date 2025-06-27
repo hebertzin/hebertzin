@@ -2,7 +2,7 @@
 
 ## 
 
-🚀 **I'm a Software Engineer**
+🚀 **I'm a Backend Software devloper**
 
 🎓 Undergraduate in Systems Analysis and Development at **Anhembi Morumbi**
 
@@ -10,8 +10,7 @@
 
 🌐 **B1 English Level**
 
-📚 Studying Software architecture and good practices
-
+📚 Studying golang and microservices
 
 <h3 align="left">Contact me</h3>
 <div> 
@@ -48,10 +47,6 @@
 Here you'll find some projects focused in the following technologies:
 
 <p style="font-size:2px;">
--Java
-
--Spring Boot (Web, Security)
-
 -Relational and Non-Relational Databases (Postgres, MySQL, MongoDB)
 
 -Redis
